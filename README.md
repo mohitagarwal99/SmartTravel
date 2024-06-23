@@ -13,10 +13,6 @@
     - Introduction 
     - Problem it solves
     - Tech Stack
-    - Screengrabs
-    - Scalability
-    - Setup Guide
-    - Contribution Guidelines
     - License
 
 ## Introduction
@@ -30,12 +26,6 @@
   ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
   ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
   ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-
-## Screengrabs
-
-
-## Scalability
-
 
 ## Setup Guide
 
